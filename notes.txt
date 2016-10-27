@@ -1,0 +1,8 @@
+|Pick a day
+|
+|Pick a time
+|
+|
+|->We give cost estimate ->They confirm this is okay
+|
+--> Emails us with this information -> We email cleaning service -> We send them confirmation and cleaning service contact info
